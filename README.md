@@ -1,15 +1,13 @@
-
-
 # Nalin Aditya Chaganti
 
-Mathematics and Mechanical Engineering student focused on machine learning. I enjoy solving hard problems and building reliable ML systems.
+I am a Mathematics and Mechanical Engineering student from BITS Pilani focused on machine learning. I enjoy solving hard problems and building reliable ML systems.
 
 ## Focus
 - Seeking ML opportunities for hands-on product and research experience
 - Interests: applied ML, generative models, information retrieval
 
 ## Experience Highlights
-- AI Engineer, Universal Software: Built an AI stylist system for text + image queries; designed a CLIP/vision preprocessing pipeline; automated dataset refresh from an e-commerce portal.
+- AI Engineer: Built an AI stylist system for text + image queries; designed a CLIP/vision preprocessing pipeline; automated dataset refresh from an e-commerce portal.
 - Machine Learning Intern, SignalATM: Classified candlestick images and 5-min OHLC data to detect market patterns using image + tabular ML.
 - ML Project, BITS Pilani (Mechanical Dept.): Bearing fault diagnosis for 48 kHz and 12 kHz signals; used DDPMs to generate synthetic data for small datasets.
 
@@ -25,7 +23,7 @@ Mathematics and Mechanical Engineering student focused on machine learning. I en
 - Math: statistical inference, optimization, linear algebra, numerical analysis
 
 ## Education
-- M.S. Mathematics, BITS Pilani (CGPA: 6.52)
+- M.S. Mathematics, BITS Pilani
 - B.E. Mechanical, BITS Pilani; Minor in Computational Economics
 
 ## Links
